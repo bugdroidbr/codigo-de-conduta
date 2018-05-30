@@ -67,7 +67,9 @@ Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 * **David Conceição** - @davidtiagoconceicao
 * **Douglas Drumond** - @douglasdrumond
+* **JP Ventura** - @jpventura
 * **Marcello Galhardo** - @marcellogalhardo
+* **Rafa Araujo** - @rafaaraujo
 * **Walmyr Carvalho** - @walmyrcarvalho
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
@@ -136,7 +138,6 @@ Os canais terminados em **-alerts** (#job-alerts, #channel-alerts) são para men
 A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Android Dev BR.
 
 Principais estão integrados ao nosso Slack:
-* [Slack Achive Bot](http://slackarchive.io/): Copia todas as mensagens trocadas pelos canais públicos para um arquivo permanente, acessível através do link http://androiddevbr.slackarchive.io/.
 * [Paperbot](http://paperbot.ai/): Monitora os links enviados para a geração de um portal web e e-mails de resumo diário. Desta forma, todos os links enviados por nossos membros nos canais públicos podem ser conferidos em [um portal centralizado](http://web.paperbot.ai). Basta logar com seu usuário do slack para ter acesso à lista de links.
 
 ### Conhecendo o Slack
