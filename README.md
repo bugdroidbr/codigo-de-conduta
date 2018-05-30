@@ -67,7 +67,9 @@ Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 * **David Conceição** - @davidtiagoconceicao
 * **Douglas Drumond** - @douglasdrumond
+* **JP Ventura** - @jpventura
 * **Marcello Galhardo** - @marcellogalhardo
+* **Rafa Araujo** - @orafaaraujo
 * **Walmyr Carvalho** - @walmyrcarvalho
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
